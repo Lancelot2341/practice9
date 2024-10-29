@@ -1,0 +1,3 @@
+document.querySelector('button').addEventListener('dblclick', function() {
+  console.log("Button was double-clicked");
+});
