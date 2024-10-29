@@ -1,0 +1,5 @@
+<div id="progress-container" style="width: 100%; background-color: #ddd;">
+  <div id="progress-bar" style="width: 0%; height: 30px; background-color: #4caf50;"></div>
+</div>
+<br>
+<button onclick="increaseProgress()">Complete Task</button>
